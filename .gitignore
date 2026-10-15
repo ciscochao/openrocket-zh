@@ -1,0 +1,7 @@
+_build/
+__pycache__/
+*.pyc
+.DS_Store
+*.swp
+# 沙箱临时文件（非项目文件）
+nfc3hxea
