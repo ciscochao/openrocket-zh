@@ -28,14 +28,9 @@ sphinx-build -b html docs docs/_build/html
 # 用浏览器打开 docs/_build/html/index.html
 ```
 
-## 发布到 Read the Docs（让更多人看到）
+## 已发布到 Read the Docs（让更多人看到）
 
-1. 把这个仓库推送到你的 GitHub（新建一个公开仓库，例如 `openrocket-zh`）。
-2. 用 GitHub 账号登录 [Read the Docs](https://readthedocs.org/)，点击 **Import a Project** → 选择该仓库。
-3. Read the Docs 会自动读取 `.readthedocs.yaml` 并构建，几分钟后即可获得一个永久网址，例如 `https://openrocket-zh.readthedocs.io/`。
-4. 之后每次向仓库 `main` 分支推送更新，文档会自动重新构建。
-
-> 提示：如果你希望这份翻译被 OpenRocket 官方收录，可以向官方仓库提交翻译贡献（upstream PR）。本仓库的结构已尽量贴近官方 Sphinx 项目，便于后续合并。
+阅读地址：https://openrocket-zh.readthedocs.io/zh-cn/latest/
 
 ## 版权与署名
 
